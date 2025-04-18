@@ -1,0 +1,53 @@
+
+
+#header {
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* position:fixed;
+    width:98%; */
+
+    position: sticky;
+  top: 0;
+  width: 100%; 
+  z-index: 1000;
+  box-sizing:border-box;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  .sitename a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+  
+  /* Flex the nav links */
+  .navList {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Nav links */
+  .navList li a,
+  .navList li a:visited,
+  .navList li a:active {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navList li a:hover {
+    color: #ffcc00;
+  }
+  
+  /* Active NavLink styling */
+  .active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
