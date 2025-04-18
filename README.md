@@ -46,3 +46,6 @@ VITE_SERVICE_ID = yourserviceid
 VITE_TEMPLATE_ID=yourtemplateid
 VITE_PUBLIC_KEY=publickeyvalue
 ```
+
+## Deployment
+https://github.com/heatherfeather-code/Portfolio-React
