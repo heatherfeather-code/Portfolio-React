@@ -1,4 +1,4 @@
-# Heather Boden - Web Development Portfolio
+# Heather Boden - React Web Development Portfolio
 
 Welcome to my personal web development portfolio!  
 This project showcases my skills in modern web development, including front-end design, responsive layouts, and API integration.
