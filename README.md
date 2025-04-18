@@ -47,5 +47,5 @@ VITE_TEMPLATE_ID=yourtemplateid
 VITE_PUBLIC_KEY=publickeyvalue
 ```
 
-## Deployment
-https://github.com/heatherfeather-code/Portfolio-React
+## View Deployment
+https://portfolio-react-gr3fbzddr-heathers-projects-29091385.vercel.app/
